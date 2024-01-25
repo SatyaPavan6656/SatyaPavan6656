@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyapavan6656&label=Profile%20views&color=0e75b6&style=flat" alt="satyapavan6656" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://satyapavanjupudiportfolio.framer.website](https://satyapavanjupudiportfolio.framer.website)
+- 👨‍💻 All of my projects are available at [https://satyapavanjupudi.framer.website](https://satyapavanjupudi.framer.website)
 
 - 📫 How to reach me **satyapavanjupudi@gmail.com**
 
