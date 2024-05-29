@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Satya Pavan Jupudi</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<a href="https://git.io/typing-svg" style="align:center"><img src="https://readme-typing-svg.demolab.com?font=Gothic+bold&pause=1000&color=0D1FF7&multiline=true&random=false&width=435&lines=Hi+There%2C+I+am+Satya+Pavan+Jupudi+;A+Passionate+Software+Developer" alt="Typing SVG" /></a>
 <div align="center">
 <img src="profile-pic.png" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyapavan6656&label=Profile%20views&color=0e75b6&style=flat" alt="satyapavan6656" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://satyapavanjupudi.framer.website](https://satyapavanjupudi.framer.website)
 
